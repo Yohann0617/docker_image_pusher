@@ -5,3 +5,5 @@ golang:latest
 ubuntu:latest
 maven:3.8.4-openjdk-11
 openjdk:8-jdk-alpine
+centos:centos7
+dockette/openjdk8:latest
